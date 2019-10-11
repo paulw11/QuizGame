@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GameFramework",
+        "repositoryURL": "https://github.com/paulw11/GameFramework.git",
+        "state": {
+          "branch": "master",
+          "revision": "b53d6ad81a7e09c21c48748f2232f3943025b058",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
